@@ -177,6 +177,9 @@ form{
  height: auto;
  box-shadow: 0px 3px 6px ;
 }
+form h2{
+    text-align:center;
+}
 label {
     padding:20px;
     margin: 5px;
@@ -224,7 +227,7 @@ form button:hover{
 .footer a:hover{
     color: #DE3163;
 }
-@media (max-width:600px) {
+@media (max-width:500px) {
 body{
     background-color: #de316237;
     font-size: small;
